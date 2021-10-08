@@ -3,3 +3,4 @@ rencana hidup reynaldo
 -jago coding : web,mobile.laravel, react
 -jago jaringan : routing dll
 -jago cyber security : kali ubuntu
+
