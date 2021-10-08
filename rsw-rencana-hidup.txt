@@ -1,5 +1,5 @@
 rencana hidup reynaldo
--jadi abdi negara : pns
+-jadi abdi negara : pns,gereja
 -jago coding : web,mobile
 -jago jaringan : routing dll
--jago cyber security
+-jago cyber security : linux
