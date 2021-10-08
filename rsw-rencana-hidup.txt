@@ -4,3 +4,4 @@ rencana hidup reynaldo
 -jago jaringan : routing dll
 -jago cyber security : kali ubuntu
 
+
